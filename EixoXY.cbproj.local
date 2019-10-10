@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/12/04 19:37:20.000.431,=C:\Users\ELTON\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2016/12/04 20:24:40.000.738,C:\Users\ELTON\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\UnitEixoXY.dfm</Transaction>
+    <Transaction>2016/12/04 20:24:40.000.738,C:\Users\ELTON\Documents\RAD Studio\Projects\Unit2.cpp=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\UnitEixoXY.cpp</Transaction>
+    <Transaction>2016/12/04 20:24:40.000.738,C:\Users\ELTON\Documents\RAD Studio\Projects\Unit2.h=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\UnitEixoXY.h</Transaction>
+    <Transaction>2016/12/04 20:24:50.000.592,C:\Users\ELTON\Documents\RAD Studio\Projects\Project5.cbproj=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\EixoXY.cbproj</Transaction>
+    <Transaction>2017/01/08 07:48:14.000.591,=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\File1.h</Transaction>
+    <Transaction>2017/01/08 07:48:42.000.354,C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\File1.h=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\UnitArquivo.h</Transaction>
+    <Transaction>2017/01/08 08:07:48.000.741,=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\File1.cpp</Transaction>
+    <Transaction>2017/01/08 08:09:29.000.605,C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\File1.cpp=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\UnitArquivo1.cpp</Transaction>
+    <Transaction>2017/01/08 15:27:18.000.134,C:\Users\ELTON\Documents\lojaWordCustoms\ClientWordCustoms\UnitArquivoG3D.h=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\UnitArquivo.h</Transaction>
+    <Transaction>2017/01/08 15:27:42.000.014,C:\Users\ELTON\Documents\lojaWordCustoms\ClientWordCustoms\UnitArquivo1.cpp=C:\Users\ELTON\Documents\C++\Grafico3D\ConstrucaoEixoXEixoY\UnitArquivo1.cpp</Transaction>
+    <Transaction>2017/10/09 19:28:02.000.967,=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2017/10/09 19:35:39.000.588,D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.cpp=D:\Grafico3D\ConstrucaoEixoXEixoY\UnitDesenha3Ds.cpp</Transaction>
+    <Transaction>2017/10/09 19:35:39.000.588,D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.h=D:\Grafico3D\ConstrucaoEixoXEixoY\UnitDesenha3Ds.h</Transaction>
+    <Transaction>2017/10/11 21:33:23.000.029,=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2017/10/11 21:42:43.000.712,D:\Grafico3D\ConstrucaoEixoXEixoY\UnitControleXYZ.cpp=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2017/10/11 21:42:43.000.712,D:\Grafico3D\ConstrucaoEixoXEixoY\UnitControleXYZ.h=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.h</Transaction>
+    <Transaction>2017/10/11 21:42:43.000.712,D:\Grafico3D\ConstrucaoEixoXEixoY\UnitControleXYZ.dfm=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.dfm</Transaction>
+    <Transaction>2017/10/11 21:56:26.000.279,D:\Grafico3D\ConstrucaoEixoXEixoY\UnitControleXYZ.cpp=</Transaction>
+    <Transaction>2017/10/12 05:36:50.000.330,=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2017/10/12 05:37:42.000.632,D:\Grafico3D\ConstrucaoEixoXEixoY\UnitConstrucaoXYZ.h=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.h</Transaction>
+    <Transaction>2017/10/12 05:37:42.000.632,D:\Grafico3D\ConstrucaoEixoXEixoY\UnitConstrucaoXYZ.dfm=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.dfm</Transaction>
+    <Transaction>2017/10/12 05:37:42.000.632,D:\Grafico3D\ConstrucaoEixoXEixoY\UnitConstrucaoXYZ.cpp=D:\Grafico3D\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2017/12/22 10:37:26.000.278,=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit3.cpp</Transaction>
+    <Transaction>2017/12/22 10:48:06.000.417,=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2017/12/22 12:59:24.000.330,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitFrame.h=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit1.h</Transaction>
+    <Transaction>2017/12/22 12:59:24.000.330,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitFrame.dfm=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit1.dfm</Transaction>
+    <Transaction>2017/12/22 12:59:24.000.330,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitFrame.cpp=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2017/12/23 11:07:20.000.148,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitFrame.cpp=</Transaction>
+    <Transaction>2018/01/07 11:50:33.000.163,=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit4.cpp</Transaction>
+    <Transaction>2018/01/07 14:08:11.000.217,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit4.dfm=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitElipse.dfm</Transaction>
+    <Transaction>2018/01/07 14:08:11.000.217,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit4.h=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitElipse.h</Transaction>
+    <Transaction>2018/01/07 14:08:11.000.217,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit4.cpp=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitElipse.cpp</Transaction>
+    <Transaction>2018/01/11 13:47:46.000.697,=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2018/01/11 13:48:35.000.677,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitArquivo2.h=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit1.h</Transaction>
+    <Transaction>2018/01/11 13:48:35.000.677,D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\UnitArquivo2.cpp=D:\Grafico3D\ConstrucaoEixoXEixoY\Eixos 14.10.2017\Eixos data 13.10.2017\ConstrucaoEixoXEixoY\Unit1.cpp</Transaction>
+    <Transaction>2018/02/11 13:12:00.000.853,D:\lojaWordCustoms\ClientWordCustoms\UnitArquivo1.cpp=</Transaction>
+    <Transaction>2018/02/11 13:12:05.000.715,D:\lojaWordCustoms\ClientWordCustoms\UnitArquivoG3D.h=</Transaction>
+    <Transaction>2018/09/08 16:43:05.000.862,=C:\Users\john\Documents\EixosTrabalhoFinal\EixosTrabalhoFinal\CodigoFonte\Unit1.cpp</Transaction>
+    <Transaction>2018/09/08 16:43:26.000.414,C:\Users\john\Documents\EixosTrabalhoFinal\EixosTrabalhoFinal\CodigoFonte\Unit1.cpp=C:\Users\john\Documents\EixosTrabalhoFinal\EixosTrabalhoFinal\CodigoFonte\UnitGrafica.cpp</Transaction>
+    <Transaction>2018/09/08 16:43:26.000.414,C:\Users\john\Documents\EixosTrabalhoFinal\EixosTrabalhoFinal\CodigoFonte\Unit1.h=C:\Users\john\Documents\EixosTrabalhoFinal\EixosTrabalhoFinal\CodigoFonte\UnitGrafica.h</Transaction>
+    <Transaction>2018/12/20 06:37:09.000.134,=C:\EixoXY\CodigoFonte\Unit5.cpp</Transaction>
+    <Transaction>2018/12/20 06:38:37.000.187,C:\EixoXY\CodigoFonte\UnitColor.dfm=C:\EixoXY\CodigoFonte\Unit5.dfm</Transaction>
+    <Transaction>2018/12/20 06:38:37.000.187,C:\EixoXY\CodigoFonte\UnitColor.h=C:\EixoXY\CodigoFonte\Unit5.h</Transaction>
+    <Transaction>2018/12/20 06:38:37.000.187,C:\EixoXY\CodigoFonte\UnitColor.cpp=C:\EixoXY\CodigoFonte\Unit5.cpp</Transaction>
+    <Transaction>2019/10/08 11:38:45.000.507,=C:\Users\tonyb\Documents\EixoXY2\CodigoFonte\Unit1.cpp</Transaction>
+    <Transaction>2019/10/08 11:45:58.000.544,C:\Users\tonyb\Documents\EixoXY2\CodigoFonte\Unit1.h=C:\Users\tonyb\Documents\EixoXY2\CodigoFonte\Arquivo.h</Transaction>
+    <Transaction>2019/10/08 11:45:58.000.544,C:\Users\tonyb\Documents\EixoXY2\CodigoFonte\Unit1.cpp=C:\Users\tonyb\Documents\EixoXY2\CodigoFonte\Arquivo.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="EixoXY.cpp"/>
+    <File Path="UnitConstrucaoXYZ.cpp"/>
+    <File Path="UnitConstrucaoXYZ.cpp"/>
+    <File Path="UnitConstrucaoXYZ.dfm"/>
+    <File Path="UnitConstrucaoXYZ.h"/>
+    <File Path="UnitDesenha3Ds.cpp"/>
+    <File Path="UnitDesenha3Ds.cpp"/>
+    <File Path="UnitDesenha3Ds.h"/>
+    <File Path="UnitEixoXY.cpp"/>
+    <File Path="UnitEixoXY.cpp"/>
+    <File Path="UnitEixoXY.dfm"/>
+    <File Path="UnitEixoXY.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="UnitElipse.cpp"/>
+    <File Path="UnitElipse.cpp"/>
+    <File Path="UnitElipse.dfm"/>
+    <File Path="UnitElipse.h"/>
+    <File Path="UnitArquivo2.cpp"/>
+    <File Path="UnitArquivo2.cpp"/>
+    <File Path="UnitArquivo2.h"/>
+    <File Path="UnitGrafica.cpp"/>
+    <File Path="UnitGrafica.cpp"/>
+    <File Path="UnitGrafica.h"/>
+    <File Path="UnitColor.cpp"/>
+    <File Path="UnitColor.cpp"/>
+    <File Path="UnitColor.dfm"/>
+    <File Path="UnitColor.h"/>
+    <File Path="Arquivo.cpp"/>
+    <File Path="Arquivo.cpp"/>
+    <File Path="Arquivo.h"/>
+  </ProjectSortOrder>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
